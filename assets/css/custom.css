@@ -1,0 +1,7 @@
+.markdown-body h1:first-of-type {
+  font-size: 1.25em !important;
+  padding-bottom: 0.75em !important;
+}
+a:hover {
+  text-decoration: none !important;
+}
