@@ -4,7 +4,8 @@ We are looking for sharp minds who crave big challenges and want to change the w
 
 ## Roles
 
-&#x25A1; [Analyst](analyst.md)
+&#x25A1; [Analyst](analyst.md)<br>
+&#x25A1; [Legal Associate](legal-associate.md)
 
 Apply by writing to us at [excelsior@gfinfra.com](mailto:excelsior@gfinfra.com).
 
