@@ -4,7 +4,8 @@ GreenFlash is revolutionizing energy storage by optimizing battery systems to po
 
 We are looking for sharp minds who crave big challenges and want to change the world.
 
-🚀 [Analyst](careers/analyst.md)
+&#x25A1; [Analyst](careers/analyst.md)<br>
+&#x25A1; [Legal Associate](careers/legal-associate.md)
 
 ## News
 
