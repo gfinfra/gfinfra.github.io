@@ -12,23 +12,40 @@
 
 ### Logomark
 
-<div style="display: flex; gap: 16px; align-items: center;">
-
-<div style="text-align: center; flex: 1;">
-  <img src="/assets/logo/gf.svg" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px;">
-  <p><a href="/assets/logo/gf.svg">Logomark (SVG)</a></p>
-</div>
-
-<div style="text-align: center; flex: 1;">
-  <img src="/assets/logo/gf_inverse.svg" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px; background-color: #00a050;">
-  <p><a href="/assets/logo/gf_inverse.svg">Inverse (SVG)</a></p>
-</div>
-
-<div style="text-align: center; flex: 1;">
-  <img src="/assets/logo/gf_infra.svg" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px;">
-  <p><a href="/assets/logo/gf_infra.svg">+ Text (Infrastructure) (SVG)</a></p>
-</div>
-
+<div class="row row-cols-3">
+  <div class="col text-center">
+    <div>
+    <img src="/assets/logo/gf.svg"
+         alt="Bling Store Logomark"
+         style="max-width: 96px; max-height: 96px;">
+    </div>
+    <div class="text-center my-3">
+      <a href="/assets/logo/gf.svg">SVG</a> &bullet; 
+      <a href="/assets/logo/gf.png">PNG</a>
+    </div>
+  </div>
+  <div class="col text-center">
+    <div>
+    <img src="/assets/logo/gf_inverse.svg"
+         alt="Bling Store Logomark"
+         style="background-color: #00a050; max-width: 96px; max-height: 96px;">
+    </div>
+    <div class="text-center my-3">
+      <a href="/assets/logo/gf_inverse.svg">SVG</a> &bullet;
+      <a href="/assets/logo/gf_inverse.png">PNG</a>
+    </div>
+  </div>
+  <div class="col text-center">
+    <div>
+    <img src="/assets/logo/gf_infra.svg"
+         alt="Bling Store with Infrastructure"
+         style="max-width: 96px; max-height: 96px;">
+    </div>
+    <div class="text-center my-3">
+      <a href="/assets/logo/gf_infra.svg">SVG</a> &bullet; 
+      <a href="/assets/logo/gf_infra.png">PNG</a>
+    </div>
+  </div>
 </div>
 
 ## Colors
