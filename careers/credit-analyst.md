@@ -2,30 +2,28 @@ GreenFlash is revolutionizing energy storage by optimizing battery systems to po
 
 We are looking for sharp minds who crave big challenges and want to change the world.
 
-## Analyst
+## Credit Analyst
 
 Location: Houston, TX
 
 ### Job Description
 
-We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be at the intersection of cutting-edge technology and clean energy, optimizing battery storage systems, analyzing energy markets, and learning the ins and outs of risk management and data science in real-time. This is not a passive role; it is a role in which you directly contribute to solving some of the world’s most pressing energy challenges.
+We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be at the intersection of cutting-edge technology and clean energy, analyzing energy markets, and learning the ins and outs of risk management in real-time. This is not a passive role; it is a role in which you directly contribute to solving some of the world’s most pressing energy challenges.
 
 ### Ideal Candidate Profile
 
 - Recent graduate with a strong foundation in rigorous academic programs.
 - Highly numerate and analytical, with the ability to work through complex, data-driven problems.
 - Literate and articulate, with strong communication skills to present complex ideas clearly.
-- Enthusiastic about learning risk management and data science on the job.
+- 1+ years as a credit analyst in a commodities trading organization
 - Passionate about clean energy and the opportunity to tackle large-scale, meaningful challenges.
 
 ### Key Responsibilities
 
-- Manage and optimize large-scale battery storage systems.
-- Analyze energy data to uncover patterns, risks, and optimization opportunities.
-- Apply risk management principles to ensure the reliability of our energy systems.
-- Develop and refine your data science capabilities through practical, hands-on projects.
-- Contribute to projects that shape the future of clean energy and energy storage.
-- Understand and connect the dots between energy markets, next-gen technology, and finance.
+- Manage and optimize Greenflash's credit exposure to its trading and lending counterparties
+- Monitor convenant compliance and determine actions
+- Provide real-time support to traders on assessment of credit risks
+- Support the design, evaluation, and monitoring of structures across commodities
 
 ### Why GreenFlash?
 
@@ -34,6 +32,6 @@ We want someone who excels in precision, analysis, and communication — a liter
 - Learn from industry leaders in energy markets, risk management, and data science.
 - Make an impact in a company and a sector that is in the earliest stages.
 
-Apply by writing to us at [excelsior@gfinfra.com](mailto:excelsior@gfinfra.com).
+Apply by writing to us at [careers@gfinfra.com](mailto:careers@gfinfra.com).
 
 [Careers](README.md)
