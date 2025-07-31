@@ -12,18 +12,23 @@ We want someone who excels in precision, analysis, and communication — a liter
 
 ### Ideal Candidate Profile
 
-- Recent graduate with a strong foundation in rigorous academic programs.
-- Highly numerate and analytical, with the ability to work through complex, data-driven problems.
-- Literate and articulate, with strong communication skills to present complex ideas clearly.
-- 1+ years as a credit analyst in a commodities trading organization
-- Passionate about clean energy and the opportunity to tackle large-scale, meaningful challenges.
+- A degree in Finance, Economics, Engineering, Mathematics, or a related quantitative field.
+- 1+ years of experience in credit risk analysis, ideally in a commodities trading or energy environment.
+- Familiarity with trading instruments, structured transactions, and risk systems (e.g., Openlink, Endur) is a plus.
+- A passion for clean energy and a desire to make a meaningful impact.
+- Clear communicator with the ability to explain complex ideas to diverse audiences.
+- Detail-oriented, organized, and comfortable in a fast-paced, high-stakes environment.
+- Strong analytical & financial modeling skills; proficiency in Excel is a must.
 
 ### Key Responsibilities
 
-- Manage and optimize Greenflash's credit exposure to its trading and lending counterparties
-- Monitor convenant compliance and determine actions
-- Provide real-time support to traders on assessment of credit risks
-- Support the design, evaluation, and monitoring of structures across commodities
+- Evaluate and monitor the creditworthiness and of trading and lending counterparties across power markets.
+- Analyze financial statements, exposure profiles, and collateral structures to set credit limits and recommend risk mitigants.
+- Provide real-time support to traders on credit risk implications of deals and market events.
+- Monitor covenant compliance, margining, and exposure thresholds; escalate and act on breaches.
+- Collaborate with legal and commercial teams to structure credit terms in trading agreements (e.g., ISDA, NAESB).
+- Contribute to the development of credit risk models, dashboards, and internal reporting tools.
+- Stay ahead of market trends, regulatory changes, and macroeconomic factors impacting counterparty risk.
 
 ### Why GreenFlash?
 
