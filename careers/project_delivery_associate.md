@@ -8,24 +8,24 @@ Location: Houston, TX
 
 ### Job Description
 
-We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be at the intersection of cutting-edge technology and clean energy, optimizing battery storage systems, analyzing energy markets, and learning the ins and outs of risk management and data science in real-time. This is not a passive role; it is a role in which you directly contribute to solving some of the world’s most pressing energy challenges.
+We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be responsible to developing and building battery storage systems that support the resiliency of the grid and enable the energy transition.
 
 ### Ideal Candidate Profile
 
-- Recent graduate with a strong foundation in rigorous academic programs.
-- Highly numerate and analytical, with the ability to work through complex, data-driven problems.
+- Student with a strong foundation in engineering and project management.
+- Strong collaborator in corss-functional teams.
+- Process-oriented individual
 - Literate and articulate, with strong communication skills to present complex ideas clearly.
-- Enthusiastic about learning risk management and data science on the job.
+- Enthusiastic about building physical projects.
 - Passionate about clean energy and the opportunity to tackle large-scale, meaningful challenges.
 
 ### Key Responsibilities
 
-- Manage and optimize large-scale battery storage systems.
-- Analyze energy data to uncover patterns, risks, and optimization opportunities.
-- Apply risk management principles to ensure the reliability of our energy systems.
-- Develop and refine your data science capabilities through practical, hands-on projects.
-- Contribute to projects that shape the future of clean energy and energy storage.
-- Understand and connect the dots between energy markets, next-gen technology, and finance.
+- Manage and optimize permitting of battery storage projects.
+- Conduct due diligence on acquisition projects.
+- Drive projects through pre-construction through commissioning activities.
+- Document lessons learned from projects and share across project portfolio.
+- Develop strategic relationships with contractors and equipment vendors.
 
 ### Why GreenFlash?
 
