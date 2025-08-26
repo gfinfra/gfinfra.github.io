@@ -13,7 +13,7 @@ We want someone who excels in precision, analysis, and communication — a liter
 ### Ideal Candidate Profile
 
 - Student with a strong foundation in engineering and project management.
-- Strong collaborator in corss-functional teams.
+- Strong collaborator in cross-functional teams.
 - Process-oriented individual
 - Literate and articulate, with strong communication skills to present complex ideas clearly.
 - Enthusiastic about building physical projects.
