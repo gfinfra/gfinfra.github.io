@@ -8,7 +8,7 @@ Location: Houston, TX
 
 ### Job Description
 
-We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be driving projects
+We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be driving projects that support the resiliency of the electrical grid and AI data centers.
 
 ### Ideal Candidate Profile
 
