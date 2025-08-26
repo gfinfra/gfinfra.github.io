@@ -8,24 +8,24 @@ Location: Houston, TX
 
 ### Job Description
 
-We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be at the intersection of cutting-edge technology and clean energy, optimizing battery storage systems, analyzing energy markets, and learning the ins and outs of risk management and data science in real-time. This is not a passive role; it is a role in which you directly contribute to solving some of the world’s most pressing energy challenges.
+We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate individual to lead Greenflash's Qualified Scheduling Entity (QSE) desk in ERCOT. The desk will support GW-scale operations across Greenflash's operating portfolio and manage day-to-day
 
 ### Ideal Candidate Profile
 
-- Recent graduate with a strong foundation in rigorous academic programs.
+- Experiencing working with ERCOT and power trading operations
 - Highly numerate and analytical, with the ability to work through complex, data-driven problems.
 - Literate and articulate, with strong communication skills to present complex ideas clearly.
-- Enthusiastic about learning risk management and data science on the job.
+- Process-oriented individual able to collaborate in cross-functional teams.
 - Passionate about clean energy and the opportunity to tackle large-scale, meaningful challenges.
 
 ### Key Responsibilities
 
-- Manage and optimize large-scale battery storage systems.
-- Analyze energy data to uncover patterns, risks, and optimization opportunities.
-- Apply risk management principles to ensure the reliability of our energy systems.
-- Develop and refine your data science capabilities through practical, hands-on projects.
-- Contribute to projects that shape the future of clean energy and energy storage.
-- Understand and connect the dots between energy markets, next-gen technology, and finance.
+- Management of market submissions and required ERCOT communication
+- Ensure compliance with ERCOT policies and procedures
+- Develop standard operating procedures for
+- Research and develop initiatives to adapt to new market rules and regulations
+- Own and manage the system architecture between operations and ERCOT
+- Collaborate with broader trading and operations team to ensure flawless operations
 
 ### Why GreenFlash?
 
