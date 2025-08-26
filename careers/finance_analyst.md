@@ -8,24 +8,23 @@ Location: Houston, TX
 
 ### Job Description
 
-We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be at the intersection of cutting-edge technology and clean energy, optimizing battery storage systems, analyzing energy markets, and learning the ins and outs of risk management and data science in real-time. This is not a passive role; it is a role in which you directly contribute to solving some of the world’s most pressing energy challenges.
+We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be responsible for analyzing battery storage economics, evaluating portfolio level project financing, optimizing returns for investors, evaluate impact of policy & tax changes, and driving valuations for acquisition targets. 
 
 ### Ideal Candidate Profile
 
 - Recent graduate with a strong foundation in rigorous academic programs.
 - Highly numerate and analytical, with the ability to work through complex, data-driven problems.
 - Literate and articulate, with strong communication skills to present complex ideas clearly.
-- Enthusiastic about learning risk management and data science on the job.
+- Practical experience with financial modeling.
 - Passionate about clean energy and the opportunity to tackle large-scale, meaningful challenges.
 
 ### Key Responsibilities
 
-- Manage and optimize large-scale battery storage systems.
-- Analyze energy data to uncover patterns, risks, and optimization opportunities.
-- Apply risk management principles to ensure the reliability of our energy systems.
-- Develop and refine your data science capabilities through practical, hands-on projects.
+- Build and manage financial models for economic performance of battery storage systems.
+- Assist in project valuations for acquisition targets.
+- Drive financing activities and due diligence during project financing processes.
+- Track market movements and impact on project financials.
 - Contribute to projects that shape the future of clean energy and energy storage.
-- Understand and connect the dots between energy markets, next-gen technology, and finance.
 
 ### Why GreenFlash?
 
