@@ -8,24 +8,23 @@ Location: Houston, TX
 
 ### Job Description
 
-We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be at the intersection of cutting-edge technology and clean energy, optimizing battery storage systems, analyzing energy markets, and learning the ins and outs of risk management and data science in real-time. This is not a passive role; it is a role in which you directly contribute to solving some of the world’s most pressing energy challenges.
+We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate graduate. You'll be driving projects
 
 ### Ideal Candidate Profile
 
-- Recent graduate with a strong foundation in rigorous academic programs.
+- Student with a strong foundation in electrical engineering.
 - Highly numerate and analytical, with the ability to work through complex, data-driven problems.
 - Literate and articulate, with strong communication skills to present complex ideas clearly.
-- Enthusiastic about learning risk management and data science on the job.
+- Enthusiastic deploying microgrids and utility-scale power systems.
 - Passionate about clean energy and the opportunity to tackle large-scale, meaningful challenges.
 
 ### Key Responsibilities
 
-- Manage and optimize large-scale battery storage systems.
-- Analyze energy data to uncover patterns, risks, and optimization opportunities.
-- Apply risk management principles to ensure the reliability of our energy systems.
-- Develop and refine your data science capabilities through practical, hands-on projects.
-- Contribute to projects that shape the future of clean energy and energy storage.
-- Understand and connect the dots between energy markets, next-gen technology, and finance.
+- Manage and optimize large-scale battery storage systems interconnection process.
+- Collaborate with engineering contractors to develop engineering drawings and designs for new projects.
+- Drive procurement decisions surrounding transformers, switchgears, batteries, and circuit breakers.
+- Conduct due diligence on the electrical designs of acquisition targets.
+- Troubleshoot operations of operating assets.
 
 ### Why GreenFlash?
 
