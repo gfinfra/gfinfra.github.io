@@ -8,7 +8,7 @@ Location: Houston, TX
 
 ### Job Description
 
-We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate individual to lead Greenflash's Qualified Scheduling Entity (QSE) desk in ERCOT. The desk will support GW-scale operations across Greenflash's operating portfolio and manage day-to-day
+We want someone who excels in precision, analysis, and communication — a literate, numerate, and articulate individual to lead Greenflash's Qualified Scheduling Entity (QSE) desk in ERCOT. The desk will support GW-scale operations across Greenflash's operating portfolio, manage day-to-day market interactions, and spearhead initiatives to respond to changing market conditions.
 
 ### Ideal Candidate Profile
 
